@@ -2,7 +2,7 @@
 
 Every version we could find of the *Verfahrenshinweise zum Aufenthalt in Berlin* (VAB), the Berlin immigration office's internal guidance on residence, asylum and naturalisation law.
 
-The office (Landesamt für Einwanderung, formerly the Ausländerbehörde Berlin) publishes the VAB as a single PDF of up to 1,000 pages. It replaces the file several times a year, keeps no old versions online and publishes no change log. This folder keeps the old versions. It was moved here on 15 November 2026 from the separate `vabpdfs` repository.
+The office (Landesamt für Einwanderung, formerly the Ausländerbehörde Berlin) publishes the VAB as a single PDF of up to 1,000 pages. It replaces the file several times a year, keeps no old versions online and publishes no change log. This folder keeps the old versions.
 
 ## The files
 

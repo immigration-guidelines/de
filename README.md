@@ -9,4 +9,6 @@ Published guidance that the authorities of Germany (federal level and states) is
 
 **Berlin.** The Berlin immigration office's guidance (Verfahrenshinweise zum Aufenthalt in Berlin, VAB) is in [`berlin/`](berlin/): the source PDF of every known version from 2007 to 2026, 79 in all. The text of those versions, as a history with one commit and one tag per version so that changes can be read as diffs, is kept separately at [immigration-guidelines/berlin_vab](https://github.com/immigration-guidelines/berlin_vab). The `berlin/` folder is not listed in the top-level `index.tsv`; it has its own.
 
+**Further federal sources.** `ba/` holds the Federal Employment Agency's technical instructions on the Residence Act and Employment Ordinance (Fachliche Weisungen AufenthG/BeschV, current version of December 2024 and four earlier versions) and its numbered instructions on labour-market admission; `bmi/` holds further Interior Ministry letters and earlier versions of annexes; `aa/` holds two Foreign Office instructions. They are listed in `federal-index.tsv`, and `federal-not-obtained.tsv` lists what is known but was not fetched. Several of these come from copies hosted by asyl.net or the Internet Archive, because the ministries' own sites refuse automated access; the index gives the source of each.
+
 The documents remain the work of the authorities that published them.

@@ -7,4 +7,6 @@ Published guidance that the authorities of Germany (federal level and states oth
 - The files are unmodified copies of what the source published. Where a source refused automated access, copies come from a public web archive; the index says which.
 - What is missing, and how to obtain it, is described in `MISSING.md` in the main `immigration-guidelines` repository, which also holds the download scripts.
 
+**Berlin is in its own repository.** The Berlin immigration office's guidance (Verfahrenshinweise zum Aufenthalt in Berlin, VAB) is kept with its full version history, one commit per version since 2007, at [immigration-guidelines/berlin_vab](https://github.com/immigration-guidelines/berlin_vab); the source PDFs are at [immigration-guidelines/vabpdfs](https://github.com/immigration-guidelines/vabpdfs).
+
 The documents remain the work of the authorities that published them.
